@@ -1,0 +1,36 @@
+body {
+    margin: 20px;
+    color: black;
+    border-bottom: 7px;
+    border-bottom color: blue;
+}
+.rename{
+    background-size: 50px;
+    border-image: round;
+border-color: black;
+
+}
+.juwon {
+width: 200px;
+}
+.rename {
+ border: 2px solid black; 
+padding: 25px;
+display: flex;
+background-color: #f00557;
+justify-content: space-around;
+width: 400px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.italic{
+    border: 2px solid rgb(18, 40, 163);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+border: 5px solid black;
+}
+h5{
+    border: 4px dotted rgb(50, 104, 205);
+}
